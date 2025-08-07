@@ -30,9 +30,9 @@
 
 <br><br>
 
-- :school: I am a `Junior` at  [IIT Delhi](https://home.iitd.ac.in/).
+- :school: I am a `Senior` at  [IIT Delhi](https://home.iitd.ac.in/).
 - :technologist: I love using Software as a solution for every `Problem`, but with special interest towards ML-AI, Development
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
 - :nerd_face: Always `learning new things`.
 <br>
 
